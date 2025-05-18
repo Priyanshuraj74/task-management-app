@@ -41,7 +41,7 @@ This is a full-stack task management application built using Angular, Node.js, E
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/manthanank/task-management-app.git
+    git clone https://github.com/Priyanshuraj74/task-management-app.git
     cd task-management-app/backend
     ```
 
